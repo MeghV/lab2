@@ -11,7 +11,7 @@
 	<div class="content">
 		<!--#include virtual="inc/header.html" -->
 		
-		<!-- main content with pictures -->
+		<!-- Section for the story -->
 		<article class="inside-content">
 			<section>
 				<h2 class="about-header">Our Story</h2>
@@ -29,6 +29,8 @@
 				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 			</section>
+			
+			<!-- Section for the team's information -->
 			<section>
 				<h2 class="about-header">Our Team</h2>
 					<div class="team">

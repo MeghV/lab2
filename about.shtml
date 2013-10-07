@@ -10,6 +10,8 @@
 <body>
 	<div class="content">
 		<!--#include virtual="inc/header.html" -->
+		
+		<!-- main content with pictures -->
 		<article class="inside-content">
 			<section>
 				<h2 class="about-header">Our Story</h2>

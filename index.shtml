@@ -10,6 +10,8 @@
 <body>
 	<div class="content">
 		<!--#include virtual="inc/header.html" -->
+		
+		<!-- main content with pictures -->
 		<article class="inside-content">	
 			<img src="img/factory.jpg" class="pull-left" alt="Image of a factory">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
